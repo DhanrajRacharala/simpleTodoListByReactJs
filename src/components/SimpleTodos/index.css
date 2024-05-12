@@ -1,0 +1,34 @@
+/* Write your CSS here */
+
+.orange-card {
+  background-color: #ffc2a0;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.white-card {
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  width: 65vw;
+  background-color: #ffffff;
+  background-size: cover;
+  border-radius: 15px;
+}
+
+h1 {
+  font-family: 'roboto';
+  font-size: 40px;
+  font-weight: 600;
+  color: #ff8542;
+  text-align: center;
+}
+ul {
+  list-style-type: none;
+  padding-left: 0px;
+}
